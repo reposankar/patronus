@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 HARRY'S PATRONUS
 
    /|       |\
@@ -25,7 +24,6 @@ HARRY'S PATRONUS
            | || |           | |   | |
            |_||_|           |_|   |_|
           /_//_/           /_/   /_/
-=======
 LILLY'S PATRONUS
                    .     _,
                    |`\__/ /
@@ -42,4 +40,3 @@ LILLY'S PATRONUS
      ||  \\       |||
      )\   )\      )||
      `"   `"      `""
->>>>>>> hermi

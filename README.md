@@ -2,7 +2,7 @@
 Git/GitHub Practice
 ===================
 
-![patronus](./images/patronus3.jpeg)
+![patronus](./images/patronus4.jpeg)
 
 This repo has various branches and commit combinations to demonstrate wide variety of Git and GitHub functionaries.
 

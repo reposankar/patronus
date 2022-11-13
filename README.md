@@ -37,6 +37,6 @@ public class Cat {
 }
 ```
 
-> This is a multiline note on readme file.  
->  with multiple lines.  
->  This is third line of the note.
+> Note:  
+>  This is a multiline note example.  
+>  Third line of the note.

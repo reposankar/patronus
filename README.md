@@ -1,14 +1,9 @@
+# Git/GitHub Practice
 
-Git/GitHub Practice
-===================
-
-![patronus](./images/patronus4.jpg)
+![Patronus](./images/patronus4.jpg)
 
 This repo has various branches and commit combinations to demonstrate wide variety of Git and GitHub functionaries.
 
-Essentials
-----------
+## Essentials
 
-* Git Bash 2.3 or above
-
-
+- Git Bash 2.3 or above

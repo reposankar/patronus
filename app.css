@@ -51,7 +51,7 @@ html, body {
 }
 
 body {
-  background: #111;
+  background: rgb(27, 32, 24);
   background-size: 0.2em 100%;
   font: 5em/1 Open Sans, Impact;
   text-transform: uppercase;

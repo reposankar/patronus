@@ -4,3 +4,5 @@ Harry:
 Ron: 
 2022/11/07 --> Classes from 09AM to 11AM.
 
+Raymond:
+2023/01/02 --> no class.

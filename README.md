@@ -36,7 +36,3 @@ public class Cat {
 
 }
 ```
-
-> Note:  
->  This is a multiline note example.  
->  Third line of the note.
